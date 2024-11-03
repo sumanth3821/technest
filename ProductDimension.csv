@@ -1,0 +1,501 @@
+ProductID,ProductName,ProductCategory,Brand,Price
+45,here,Smartphone,HomeSmart,1960.19
+48,last,Smartphone,GigaCore,953.27
+1,stock,Smart TV,GigaCore,753.68
+4,support,Smart TV,GigaCore,893.54
+4,support,Smart TV,GigaCore,893.54
+40,down,Smart TV,GigaCore,166.71
+10,there,Smart TV,Connectify,1213.78
+20,pick,Smart TV,Connectify,858.16
+22,might,Smart Speaker,GigaCore,1516.06
+37,very,Smart TV,TechNest,685.89
+24,success,Smart Speaker,TechNest,611.43
+7,collection,Laptop,GigaCore,1183.96
+25,easy,Laptop,TechNest,1948.38
+25,easy,Laptop,TechNest,1948.38
+13,have,Laptop,GigaCore,1585.6
+2,measure,Smart TV,HomeSmart,1990.79
+39,indicate,Laptop,GigaCore,1905.26
+40,down,Smart TV,GigaCore,166.71
+24,success,Smart Speaker,TechNest,611.43
+47,already,Smart Speaker,TechNest,758.05
+25,easy,Laptop,TechNest,1948.38
+18,catch,Laptop,Connectify,1418
+38,development,Smartphone,GigaCore,1442.13
+26,politics,Smartphone,Connectify,762.21
+14,law,Tablet,TechNest,759.91
+9,difficult,Laptop,Connectify,1736.33
+10,there,Smart TV,Connectify,1213.78
+21,number,Smart Speaker,Connectify,1256.68
+17,computer,Smart TV,GigaCore,1991.56
+6,relationship,Laptop,Connectify,228.56
+16,in,Smartphone,HomeSmart,1444.04
+48,last,Smartphone,GigaCore,953.27
+1,stock,Smart TV,GigaCore,753.68
+19,share,Smartphone,TechNest,1927.56
+36,TRUE,Smart Speaker,Connectify,1656.73
+25,easy,Laptop,TechNest,1948.38
+50,side,Smart Speaker,HomeSmart,1110.61
+30,town,Tablet,TechNest,1673.62
+20,pick,Smart TV,Connectify,858.16
+20,pick,Smart TV,Connectify,858.16
+15,everybody,Smartphone,TechNest,1159.8
+40,down,Smart TV,GigaCore,166.71
+33,account,Smart Speaker,TechNest,1362.46
+2,measure,Smart TV,HomeSmart,1990.79
+10,there,Smart TV,Connectify,1213.78
+33,account,Smart Speaker,TechNest,1362.46
+32,factor,Smart Speaker,HomeSmart,625.96
+11,over,Smart TV,GigaCore,1022.02
+24,success,Smart Speaker,TechNest,611.43
+36,TRUE,Smart Speaker,Connectify,1656.73
+12,international,Smart Speaker,HomeSmart,1088.43
+29,rest,Smart TV,TechNest,510.53
+35,like,Smartphone,GigaCore,258.24
+1,stock,Smart TV,GigaCore,753.68
+1,stock,Smart TV,GigaCore,753.68
+37,very,Smart TV,TechNest,685.89
+6,relationship,Laptop,Connectify,228.56
+39,indicate,Laptop,GigaCore,1905.26
+41,figure,Smart Speaker,HomeSmart,1262.25
+18,catch,Laptop,Connectify,1418
+16,in,Smartphone,HomeSmart,1444.04
+5,local,Smartphone,TechNest,1602.25
+42,particularly,Tablet,TechNest,655.57
+43,forward,Tablet,GigaCore,317.85
+32,factor,Smart Speaker,HomeSmart,625.96
+2,measure,Smart TV,HomeSmart,1990.79
+2,measure,Smart TV,HomeSmart,1990.79
+40,down,Smart TV,GigaCore,166.71
+42,particularly,Tablet,TechNest,655.57
+36,TRUE,Smart Speaker,Connectify,1656.73
+39,indicate,Laptop,GigaCore,1905.26
+12,international,Smart Speaker,HomeSmart,1088.43
+47,already,Smart Speaker,TechNest,758.05
+19,share,Smartphone,TechNest,1927.56
+28,hair,Smart Speaker,HomeSmart,1719.31
+1,stock,Smart TV,GigaCore,753.68
+15,everybody,Smartphone,TechNest,1159.8
+36,TRUE,Smart Speaker,Connectify,1656.73
+13,have,Laptop,GigaCore,1585.6
+43,forward,Tablet,GigaCore,317.85
+21,number,Smart Speaker,Connectify,1256.68
+12,international,Smart Speaker,HomeSmart,1088.43
+5,local,Smartphone,TechNest,1602.25
+7,collection,Laptop,GigaCore,1183.96
+5,local,Smartphone,TechNest,1602.25
+48,last,Smartphone,GigaCore,953.27
+4,support,Smart TV,GigaCore,893.54
+13,have,Laptop,GigaCore,1585.6
+37,very,Smart TV,TechNest,685.89
+41,figure,Smart Speaker,HomeSmart,1262.25
+15,everybody,Smartphone,TechNest,1159.8
+16,in,Smartphone,HomeSmart,1444.04
+21,number,Smart Speaker,Connectify,1256.68
+36,TRUE,Smart Speaker,Connectify,1656.73
+24,success,Smart Speaker,TechNest,611.43
+16,in,Smartphone,HomeSmart,1444.04
+14,law,Tablet,TechNest,759.91
+22,might,Smart Speaker,GigaCore,1516.06
+49,within,Smart Speaker,GigaCore,887.77
+50,side,Smart Speaker,HomeSmart,1110.61
+6,relationship,Laptop,Connectify,228.56
+42,particularly,Tablet,TechNest,655.57
+36,TRUE,Smart Speaker,Connectify,1656.73
+1,stock,Smart TV,GigaCore,753.68
+32,factor,Smart Speaker,HomeSmart,625.96
+6,relationship,Laptop,Connectify,228.56
+31,others,Smart TV,Connectify,1968.89
+1,stock,Smart TV,GigaCore,753.68
+50,side,Smart Speaker,HomeSmart,1110.61
+37,very,Smart TV,TechNest,685.89
+35,like,Smartphone,GigaCore,258.24
+49,within,Smart Speaker,GigaCore,887.77
+30,town,Tablet,TechNest,1673.62
+4,support,Smart TV,GigaCore,893.54
+35,like,Smartphone,GigaCore,258.24
+43,forward,Tablet,GigaCore,317.85
+14,law,Tablet,TechNest,759.91
+49,within,Smart Speaker,GigaCore,887.77
+40,down,Smart TV,GigaCore,166.71
+22,might,Smart Speaker,GigaCore,1516.06
+10,there,Smart TV,Connectify,1213.78
+1,stock,Smart TV,GigaCore,753.68
+11,over,Smart TV,GigaCore,1022.02
+44,ago,Smartphone,TechNest,1452.52
+24,success,Smart Speaker,TechNest,611.43
+3,cut,Tablet,Connectify,1265.57
+35,like,Smartphone,GigaCore,258.24
+36,TRUE,Smart Speaker,Connectify,1656.73
+31,others,Smart TV,Connectify,1968.89
+4,support,Smart TV,GigaCore,893.54
+19,share,Smartphone,TechNest,1927.56
+47,already,Smart Speaker,TechNest,758.05
+36,TRUE,Smart Speaker,Connectify,1656.73
+21,number,Smart Speaker,Connectify,1256.68
+18,catch,Laptop,Connectify,1418
+28,hair,Smart Speaker,HomeSmart,1719.31
+15,everybody,Smartphone,TechNest,1159.8
+42,particularly,Tablet,TechNest,655.57
+2,measure,Smart TV,HomeSmart,1990.79
+37,very,Smart TV,TechNest,685.89
+11,over,Smart TV,GigaCore,1022.02
+23,break,Smart TV,Connectify,761.99
+44,ago,Smartphone,TechNest,1452.52
+41,figure,Smart Speaker,HomeSmart,1262.25
+12,international,Smart Speaker,HomeSmart,1088.43
+3,cut,Tablet,Connectify,1265.57
+17,computer,Smart TV,GigaCore,1991.56
+33,account,Smart Speaker,TechNest,1362.46
+1,stock,Smart TV,GigaCore,753.68
+39,indicate,Laptop,GigaCore,1905.26
+20,pick,Smart TV,Connectify,858.16
+47,already,Smart Speaker,TechNest,758.05
+43,forward,Tablet,GigaCore,317.85
+41,figure,Smart Speaker,HomeSmart,1262.25
+14,law,Tablet,TechNest,759.91
+31,others,Smart TV,Connectify,1968.89
+25,easy,Laptop,TechNest,1948.38
+3,cut,Tablet,Connectify,1265.57
+4,support,Smart TV,GigaCore,893.54
+31,others,Smart TV,Connectify,1968.89
+35,like,Smartphone,GigaCore,258.24
+44,ago,Smartphone,TechNest,1452.52
+14,law,Tablet,TechNest,759.91
+49,within,Smart Speaker,GigaCore,887.77
+41,figure,Smart Speaker,HomeSmart,1262.25
+9,difficult,Laptop,Connectify,1736.33
+20,pick,Smart TV,Connectify,858.16
+32,factor,Smart Speaker,HomeSmart,625.96
+9,difficult,Laptop,Connectify,1736.33
+27,well,Laptop,HomeSmart,1999.82
+3,cut,Tablet,Connectify,1265.57
+4,support,Smart TV,GigaCore,893.54
+45,here,Smartphone,HomeSmart,1960.19
+15,everybody,Smartphone,TechNest,1159.8
+33,account,Smart Speaker,TechNest,1362.46
+5,local,Smartphone,TechNest,1602.25
+4,support,Smart TV,GigaCore,893.54
+46,teacher,Laptop,Connectify,1074.15
+12,international,Smart Speaker,HomeSmart,1088.43
+23,break,Smart TV,Connectify,761.99
+14,law,Tablet,TechNest,759.91
+46,teacher,Laptop,Connectify,1074.15
+12,international,Smart Speaker,HomeSmart,1088.43
+17,computer,Smart TV,GigaCore,1991.56
+25,easy,Laptop,TechNest,1948.38
+30,town,Tablet,TechNest,1673.62
+22,might,Smart Speaker,GigaCore,1516.06
+47,already,Smart Speaker,TechNest,758.05
+26,politics,Smartphone,Connectify,762.21
+17,computer,Smart TV,GigaCore,1991.56
+20,pick,Smart TV,Connectify,858.16
+34,focus,Smartphone,GigaCore,1562.22
+41,figure,Smart Speaker,HomeSmart,1262.25
+33,account,Smart Speaker,TechNest,1362.46
+37,very,Smart TV,TechNest,685.89
+7,collection,Laptop,GigaCore,1183.96
+22,might,Smart Speaker,GigaCore,1516.06
+32,factor,Smart Speaker,HomeSmart,625.96
+14,law,Tablet,TechNest,759.91
+8,player,Smartphone,HomeSmart,1089.33
+25,easy,Laptop,TechNest,1948.38
+16,in,Smartphone,HomeSmart,1444.04
+42,particularly,Tablet,TechNest,655.57
+19,share,Smartphone,TechNest,1927.56
+41,figure,Smart Speaker,HomeSmart,1262.25
+16,in,Smartphone,HomeSmart,1444.04
+12,international,Smart Speaker,HomeSmart,1088.43
+39,indicate,Laptop,GigaCore,1905.26
+48,last,Smartphone,GigaCore,953.27
+30,town,Tablet,TechNest,1673.62
+2,measure,Smart TV,HomeSmart,1990.79
+32,factor,Smart Speaker,HomeSmart,625.96
+45,here,Smartphone,HomeSmart,1960.19
+25,easy,Laptop,TechNest,1948.38
+25,easy,Laptop,TechNest,1948.38
+4,support,Smart TV,GigaCore,893.54
+19,share,Smartphone,TechNest,1927.56
+48,last,Smartphone,GigaCore,953.27
+4,support,Smart TV,GigaCore,893.54
+43,forward,Tablet,GigaCore,317.85
+13,have,Laptop,GigaCore,1585.6
+39,indicate,Laptop,GigaCore,1905.26
+36,TRUE,Smart Speaker,Connectify,1656.73
+23,break,Smart TV,Connectify,761.99
+6,relationship,Laptop,Connectify,228.56
+24,success,Smart Speaker,TechNest,611.43
+44,ago,Smartphone,TechNest,1452.52
+33,account,Smart Speaker,TechNest,1362.46
+12,international,Smart Speaker,HomeSmart,1088.43
+41,figure,Smart Speaker,HomeSmart,1262.25
+21,number,Smart Speaker,Connectify,1256.68
+11,over,Smart TV,GigaCore,1022.02
+44,ago,Smartphone,TechNest,1452.52
+38,development,Smartphone,GigaCore,1442.13
+29,rest,Smart TV,TechNest,510.53
+48,last,Smartphone,GigaCore,953.27
+41,figure,Smart Speaker,HomeSmart,1262.25
+3,cut,Tablet,Connectify,1265.57
+28,hair,Smart Speaker,HomeSmart,1719.31
+20,pick,Smart TV,Connectify,858.16
+26,politics,Smartphone,Connectify,762.21
+24,success,Smart Speaker,TechNest,611.43
+47,already,Smart Speaker,TechNest,758.05
+21,number,Smart Speaker,Connectify,1256.68
+30,town,Tablet,TechNest,1673.62
+4,support,Smart TV,GigaCore,893.54
+36,TRUE,Smart Speaker,Connectify,1656.73
+40,down,Smart TV,GigaCore,166.71
+10,there,Smart TV,Connectify,1213.78
+10,there,Smart TV,Connectify,1213.78
+42,particularly,Tablet,TechNest,655.57
+24,success,Smart Speaker,TechNest,611.43
+4,support,Smart TV,GigaCore,893.54
+47,already,Smart Speaker,TechNest,758.05
+27,well,Laptop,HomeSmart,1999.82
+45,here,Smartphone,HomeSmart,1960.19
+4,support,Smart TV,GigaCore,893.54
+32,factor,Smart Speaker,HomeSmart,625.96
+10,there,Smart TV,Connectify,1213.78
+11,over,Smart TV,GigaCore,1022.02
+28,hair,Smart Speaker,HomeSmart,1719.31
+46,teacher,Laptop,Connectify,1074.15
+8,player,Smartphone,HomeSmart,1089.33
+40,down,Smart TV,GigaCore,166.71
+22,might,Smart Speaker,GigaCore,1516.06
+34,focus,Smartphone,GigaCore,1562.22
+45,here,Smartphone,HomeSmart,1960.19
+35,like,Smartphone,GigaCore,258.24
+35,like,Smartphone,GigaCore,258.24
+25,easy,Laptop,TechNest,1948.38
+34,focus,Smartphone,GigaCore,1562.22
+6,relationship,Laptop,Connectify,228.56
+41,figure,Smart Speaker,HomeSmart,1262.25
+37,very,Smart TV,TechNest,685.89
+1,stock,Smart TV,GigaCore,753.68
+12,international,Smart Speaker,HomeSmart,1088.43
+35,like,Smartphone,GigaCore,258.24
+6,relationship,Laptop,Connectify,228.56
+17,computer,Smart TV,GigaCore,1991.56
+9,difficult,Laptop,Connectify,1736.33
+2,measure,Smart TV,HomeSmart,1990.79
+18,catch,Laptop,Connectify,1418
+49,within,Smart Speaker,GigaCore,887.77
+36,TRUE,Smart Speaker,Connectify,1656.73
+28,hair,Smart Speaker,HomeSmart,1719.31
+41,figure,Smart Speaker,HomeSmart,1262.25
+37,very,Smart TV,TechNest,685.89
+49,within,Smart Speaker,GigaCore,887.77
+26,politics,Smartphone,Connectify,762.21
+4,support,Smart TV,GigaCore,893.54
+40,down,Smart TV,GigaCore,166.71
+36,TRUE,Smart Speaker,Connectify,1656.73
+31,others,Smart TV,Connectify,1968.89
+30,town,Tablet,TechNest,1673.62
+50,side,Smart Speaker,HomeSmart,1110.61
+34,focus,Smartphone,GigaCore,1562.22
+19,share,Smartphone,TechNest,1927.56
+18,catch,Laptop,Connectify,1418
+30,town,Tablet,TechNest,1673.62
+21,number,Smart Speaker,Connectify,1256.68
+3,cut,Tablet,Connectify,1265.57
+6,relationship,Laptop,Connectify,228.56
+38,development,Smartphone,GigaCore,1442.13
+13,have,Laptop,GigaCore,1585.6
+45,here,Smartphone,HomeSmart,1960.19
+3,cut,Tablet,Connectify,1265.57
+48,last,Smartphone,GigaCore,953.27
+28,hair,Smart Speaker,HomeSmart,1719.31
+22,might,Smart Speaker,GigaCore,1516.06
+40,down,Smart TV,GigaCore,166.71
+40,down,Smart TV,GigaCore,166.71
+12,international,Smart Speaker,HomeSmart,1088.43
+23,break,Smart TV,Connectify,761.99
+31,others,Smart TV,Connectify,1968.89
+18,catch,Laptop,Connectify,1418
+7,collection,Laptop,GigaCore,1183.96
+8,player,Smartphone,HomeSmart,1089.33
+19,share,Smartphone,TechNest,1927.56
+29,rest,Smart TV,TechNest,510.53
+44,ago,Smartphone,TechNest,1452.52
+20,pick,Smart TV,Connectify,858.16
+50,side,Smart Speaker,HomeSmart,1110.61
+42,particularly,Tablet,TechNest,655.57
+30,town,Tablet,TechNest,1673.62
+47,already,Smart Speaker,TechNest,758.05
+22,might,Smart Speaker,GigaCore,1516.06
+10,there,Smart TV,Connectify,1213.78
+26,politics,Smartphone,Connectify,762.21
+33,account,Smart Speaker,TechNest,1362.46
+28,hair,Smart Speaker,HomeSmart,1719.31
+10,there,Smart TV,Connectify,1213.78
+29,rest,Smart TV,TechNest,510.53
+44,ago,Smartphone,TechNest,1452.52
+18,catch,Laptop,Connectify,1418
+42,particularly,Tablet,TechNest,655.57
+1,stock,Smart TV,GigaCore,753.68
+23,break,Smart TV,Connectify,761.99
+17,computer,Smart TV,GigaCore,1991.56
+43,forward,Tablet,GigaCore,317.85
+37,very,Smart TV,TechNest,685.89
+31,others,Smart TV,Connectify,1968.89
+25,easy,Laptop,TechNest,1948.38
+4,support,Smart TV,GigaCore,893.54
+9,difficult,Laptop,Connectify,1736.33
+28,hair,Smart Speaker,HomeSmart,1719.31
+30,town,Tablet,TechNest,1673.62
+47,already,Smart Speaker,TechNest,758.05
+24,success,Smart Speaker,TechNest,611.43
+33,account,Smart Speaker,TechNest,1362.46
+20,pick,Smart TV,Connectify,858.16
+9,difficult,Laptop,Connectify,1736.33
+8,player,Smartphone,HomeSmart,1089.33
+24,success,Smart Speaker,TechNest,611.43
+14,law,Tablet,TechNest,759.91
+18,catch,Laptop,Connectify,1418
+1,stock,Smart TV,GigaCore,753.68
+12,international,Smart Speaker,HomeSmart,1088.43
+29,rest,Smart TV,TechNest,510.53
+37,very,Smart TV,TechNest,685.89
+26,politics,Smartphone,Connectify,762.21
+33,account,Smart Speaker,TechNest,1362.46
+43,forward,Tablet,GigaCore,317.85
+15,everybody,Smartphone,TechNest,1159.8
+23,break,Smart TV,Connectify,761.99
+29,rest,Smart TV,TechNest,510.53
+21,number,Smart Speaker,Connectify,1256.68
+19,share,Smartphone,TechNest,1927.56
+5,local,Smartphone,TechNest,1602.25
+23,break,Smart TV,Connectify,761.99
+36,TRUE,Smart Speaker,Connectify,1656.73
+20,pick,Smart TV,Connectify,858.16
+8,player,Smartphone,HomeSmart,1089.33
+9,difficult,Laptop,Connectify,1736.33
+14,law,Tablet,TechNest,759.91
+6,relationship,Laptop,Connectify,228.56
+1,stock,Smart TV,GigaCore,753.68
+9,difficult,Laptop,Connectify,1736.33
+16,in,Smartphone,HomeSmart,1444.04
+16,in,Smartphone,HomeSmart,1444.04
+12,international,Smart Speaker,HomeSmart,1088.43
+5,local,Smartphone,TechNest,1602.25
+40,down,Smart TV,GigaCore,166.71
+29,rest,Smart TV,TechNest,510.53
+46,teacher,Laptop,Connectify,1074.15
+27,well,Laptop,HomeSmart,1999.82
+11,over,Smart TV,GigaCore,1022.02
+47,already,Smart Speaker,TechNest,758.05
+50,side,Smart Speaker,HomeSmart,1110.61
+28,hair,Smart Speaker,HomeSmart,1719.31
+36,TRUE,Smart Speaker,Connectify,1656.73
+42,particularly,Tablet,TechNest,655.57
+19,share,Smartphone,TechNest,1927.56
+35,like,Smartphone,GigaCore,258.24
+31,others,Smart TV,Connectify,1968.89
+44,ago,Smartphone,TechNest,1452.52
+19,share,Smartphone,TechNest,1927.56
+46,teacher,Laptop,Connectify,1074.15
+24,success,Smart Speaker,TechNest,611.43
+2,measure,Smart TV,HomeSmart,1990.79
+7,collection,Laptop,GigaCore,1183.96
+43,forward,Tablet,GigaCore,317.85
+49,within,Smart Speaker,GigaCore,887.77
+31,others,Smart TV,Connectify,1968.89
+17,computer,Smart TV,GigaCore,1991.56
+27,well,Laptop,HomeSmart,1999.82
+36,TRUE,Smart Speaker,Connectify,1656.73
+50,side,Smart Speaker,HomeSmart,1110.61
+43,forward,Tablet,GigaCore,317.85
+10,there,Smart TV,Connectify,1213.78
+45,here,Smartphone,HomeSmart,1960.19
+14,law,Tablet,TechNest,759.91
+7,collection,Laptop,GigaCore,1183.96
+39,indicate,Laptop,GigaCore,1905.26
+40,down,Smart TV,GigaCore,166.71
+9,difficult,Laptop,Connectify,1736.33
+14,law,Tablet,TechNest,759.91
+8,player,Smartphone,HomeSmart,1089.33
+17,computer,Smart TV,GigaCore,1991.56
+23,break,Smart TV,Connectify,761.99
+16,in,Smartphone,HomeSmart,1444.04
+26,politics,Smartphone,Connectify,762.21
+9,difficult,Laptop,Connectify,1736.33
+36,TRUE,Smart Speaker,Connectify,1656.73
+7,collection,Laptop,GigaCore,1183.96
+18,catch,Laptop,Connectify,1418
+8,player,Smartphone,HomeSmart,1089.33
+21,number,Smart Speaker,Connectify,1256.68
+26,politics,Smartphone,Connectify,762.21
+3,cut,Tablet,Connectify,1265.57
+17,computer,Smart TV,GigaCore,1991.56
+46,teacher,Laptop,Connectify,1074.15
+24,success,Smart Speaker,TechNest,611.43
+25,easy,Laptop,TechNest,1948.38
+5,local,Smartphone,TechNest,1602.25
+37,very,Smart TV,TechNest,685.89
+45,here,Smartphone,HomeSmart,1960.19
+50,side,Smart Speaker,HomeSmart,1110.61
+24,success,Smart Speaker,TechNest,611.43
+31,others,Smart TV,Connectify,1968.89
+26,politics,Smartphone,Connectify,762.21
+21,number,Smart Speaker,Connectify,1256.68
+34,focus,Smartphone,GigaCore,1562.22
+38,development,Smartphone,GigaCore,1442.13
+24,success,Smart Speaker,TechNest,611.43
+28,hair,Smart Speaker,HomeSmart,1719.31
+30,town,Tablet,TechNest,1673.62
+34,focus,Smartphone,GigaCore,1562.22
+23,break,Smart TV,Connectify,761.99
+8,player,Smartphone,HomeSmart,1089.33
+42,particularly,Tablet,TechNest,655.57
+50,side,Smart Speaker,HomeSmart,1110.61
+10,there,Smart TV,Connectify,1213.78
+1,stock,Smart TV,GigaCore,753.68
+20,pick,Smart TV,Connectify,858.16
+37,very,Smart TV,TechNest,685.89
+18,catch,Laptop,Connectify,1418
+21,number,Smart Speaker,Connectify,1256.68
+49,within,Smart Speaker,GigaCore,887.77
+4,support,Smart TV,GigaCore,893.54
+43,forward,Tablet,GigaCore,317.85
+2,measure,Smart TV,HomeSmart,1990.79
+21,number,Smart Speaker,Connectify,1256.68
+37,very,Smart TV,TechNest,685.89
+5,local,Smartphone,TechNest,1602.25
+17,computer,Smart TV,GigaCore,1991.56
+49,within,Smart Speaker,GigaCore,887.77
+48,last,Smartphone,GigaCore,953.27
+11,over,Smart TV,GigaCore,1022.02
+46,teacher,Laptop,Connectify,1074.15
+41,figure,Smart Speaker,HomeSmart,1262.25
+31,others,Smart TV,Connectify,1968.89
+28,hair,Smart Speaker,HomeSmart,1719.31
+44,ago,Smartphone,TechNest,1452.52
+32,factor,Smart Speaker,HomeSmart,625.96
+21,number,Smart Speaker,Connectify,1256.68
+7,collection,Laptop,GigaCore,1183.96
+10,there,Smart TV,Connectify,1213.78
+28,hair,Smart Speaker,HomeSmart,1719.31
+48,last,Smartphone,GigaCore,953.27
+36,TRUE,Smart Speaker,Connectify,1656.73
+20,pick,Smart TV,Connectify,858.16
+13,have,Laptop,GigaCore,1585.6
+19,share,Smartphone,TechNest,1927.56
+50,side,Smart Speaker,HomeSmart,1110.61
+11,over,Smart TV,GigaCore,1022.02
+35,like,Smartphone,GigaCore,258.24
+34,focus,Smartphone,GigaCore,1562.22
+44,ago,Smartphone,TechNest,1452.52
+4,support,Smart TV,GigaCore,893.54
+13,have,Laptop,GigaCore,1585.6
+37,very,Smart TV,TechNest,685.89
+2,measure,Smart TV,HomeSmart,1990.79
+50,side,Smart Speaker,HomeSmart,1110.61
+1,stock,Smart TV,GigaCore,753.68
+40,down,Smart TV,GigaCore,166.71
+25,easy,Laptop,TechNest,1948.38
+37,very,Smart TV,TechNest,685.89
+36,TRUE,Smart Speaker,Connectify,1656.73
+6,relationship,Laptop,Connectify,228.56
+7,collection,Laptop,GigaCore,1183.96
